@@ -11,7 +11,7 @@ api_id = int(os.getenv("API_ID"))
 api_hash = os.getenv("API_HASH")
 
 # === Telegram chat/group ID to receive notifications (replace with your own)
-chat_id_gruppo = YOUR_GROUP_ID_HERE
+chat_id_gruppo = 1003998715803
 
 # === File paths ===
 keywords_file = 'data/keywords.txt'
